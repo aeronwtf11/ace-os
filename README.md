@@ -1,2 +1,3 @@
 # Ace-OS
-AceOS is an Operating system for Rasberry Pi's
+ This rep is empty asf,I didnt really start yet sorry guys
+ 
