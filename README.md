@@ -4,9 +4,6 @@
 
 # AceOS
 
-**an operating system project. from scratch, eventually.**
-
-`osdev` · `c` · `linux` · `arm64`
 
 ---
 
