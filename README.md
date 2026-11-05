@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/aceos.png" width="155" alt="AceOS Logo">
+<img src="aceos.png" width="155" alt="AceOS Logo">
 
 # AceOS
 
